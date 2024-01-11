@@ -1,4 +1,8 @@
 # Snake-Game
 A Turtle based Snake Game
 ## Latest Release
-Check out the [latest release](https://github.com/APillai03/Snake-Game/releases/tag/v0.1.0-alpha) for new features and improvements.
+Version: [v0.1.0-alpha](https://github.com/APillai03/Snake-Game/releases/tag/v0.1.0-alpha)
+
+- New feature A
+- Bug fixes
+- Other improvements
